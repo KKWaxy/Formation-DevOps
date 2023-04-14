@@ -14,7 +14,7 @@ Mettre en place une architecture microservices pour une application Spring Boot 
 
 4. Accéder à l'application à l'adresse **```http://localhost:8080```** et vérifier qu'elle fonctionne correctement.
 
-5. Arrêter les services avec la commande docker-compose down.
+5. Arrêter les services avec la commande **```docker-compose down```**.
 
 # Bonus :
 

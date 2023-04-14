@@ -10,7 +10,7 @@ Mettre en place une architecture microservices pour une application Django qui u
 
 2. Créer un fichier **```docker-compose.yml```** qui contient les services pour l'application Django, la base de données PostgreSQL et la file d'attente Redis.
 
-3. Démarrer les services avec la commande docker-compose up.
+3. Démarrer les services avec la commande **```docker-compose up```**.
 
 4. Accéder à l'application à l'adresse **```http://localhost:8000```** et vérifier qu'elle fonctionne correctement.
 

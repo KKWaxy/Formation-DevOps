@@ -1,0 +1,27 @@
+{% extends 'zeserver/base.html' %}
+{% load static %}
+{% block content %}
+    {% block app-header %}
+        {% include 'zeserver/components/header.html' %}
+        {% block app-main %}
+        <main>
+        <!-- SEDD2023 Jumbotron -->
+        <div class="primary-color text-white ">
+            <section class="container p-4">
+                <h1 class="fs-1 w-50">SALON DE L'ENERGIE ET DU DEVELOPPEMENT DURABLE 2023</h1>
+                <div class="d-flex justify-content-center">
+                    <div class="ms-auto py-5">
+                        <small >Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolor earum vitae cumque veniam nisi odio accusantium nostrum, sunt dolorum? Quos at repellat vero corporis ullam omnis nobis. Aut, nesciunt cum?</small>
+                        <span class="badge bg-warning me-auto rounded">#SEDD2023</span>
+                    </div>
+                    <img src="{% static 'zeserver/assets/sedd.png' %}" class="rounded w-25 h-25" alt="LightOn"></image>
+                </div>
+            </section>
+
+          </div>
+        </main>
+        {% endblock app-main %}
+      
+
+    {% endblock app-header %}
+{% endblock content %}

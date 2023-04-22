@@ -21,3 +21,7 @@ Mettre en place une architecture microservices pour une application Django qui u
 
 - Ajouter un service pour un cache Memcache et mettre en place une configuration de cache pour l'application Django.
 - Utiliser Traefik comme reverse-proxy pour l'application et configurer les règles d'acheminement pour chaque service.
+
+# Architecure Overview
+
+["Architecture Overview"](TP2/docs/ArchitectureOverview.png)

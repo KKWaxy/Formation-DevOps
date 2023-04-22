@@ -23,6 +23,6 @@ Mettre en place une architecture microservices pour une application Spring Boot 
 
 # Architecure Overview
 
-["Architecture Overview"](/docs/ArchitecureOverview.png)
+["Architecture Overview"](docs/ArchitecureOverview.png)
 
-![Achitecture](/TP1/docs/ArchitecureOverview.png)
+![Achitecture](/ConteneursDocker/TP1/docs/ArchitecureOverview.png)

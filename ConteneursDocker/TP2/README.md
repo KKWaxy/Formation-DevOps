@@ -25,3 +25,5 @@ Mettre en place une architecture microservices pour une application Django qui u
 # Architecure Overview
 
 ["Architecture Overview"](docs/ArchitectureOverview.png)
+
+![Achitecture](/TP2/docs/ArchitectureOverview.png)
